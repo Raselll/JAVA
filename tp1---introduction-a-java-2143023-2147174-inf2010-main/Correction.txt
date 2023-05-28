@@ -1,0 +1,12 @@
+Correction TP 1
+
+| Conformité du code     	|   10/10    |
+| Désign du code            |   /5/5     |
+| Implémentation du code    |   5/5     |
+| Total                     |   20/20    |
+
+
+Bon TP! SVP enlevez les lignes commenter vide et remplacez les par des retour a la ligne vide.
+Bien fait de mettre vos ressources en commentaire.
+
+
